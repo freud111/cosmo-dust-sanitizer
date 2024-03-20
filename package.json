@@ -1,0 +1,24 @@
+{
+  "name": "cosmo-dust-sanitizer",
+  "version": "1.0.2",
+  "description": "A JavaScript library for sanitizing HTML input using sanitize-html and xss dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freud111/cosmo-dust-sanitizer"
+  },
+  "keywords": [
+    "sanitize",
+    "html",
+    "xss",
+    "sanitizer"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "sanitize-html": "^2.4.0",
+    "xss": "^1.0.3"
+  }
+}
